@@ -6,6 +6,8 @@ You are a test subject aboard the **Meridian Annex**, a derelict orbital lab, an
 
 Loophole is an original game inspired by the portal-puzzle genre. It is not affiliated with or endorsed by Valve, and it uses none of Valve's characters, names, story or artwork.
 
+![Loophole](loophole.jpg)
+
 ## Running the game
 
 1. Download `loophole.html`.
